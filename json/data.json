@@ -431,6 +431,40 @@
         "geo": [
             25.533611,
             33.438333
+        ],
+        "cities": [
+            {
+                "name_ar": "الغردقة - أخرى",
+                "name_en": "Hurghada"
+            },
+            {
+                "name_ar": "الغردقة - الجونة",
+                "name_en": "Hurghada Gouna"
+            },
+            {
+                "name_ar": "القصير",
+                "name_en": "Qusair"
+            },
+            {
+                "name_ar": "رأس غارب",
+                "name_en": "Ras Gharib"
+            },
+            {
+                "name_ar": "سفاجا",
+                "name_en": "Safaga"
+            },
+            {
+                "name_ar": "سهل حشيش",
+                "name_en": "Sahl Hasheesh"
+            },
+            {
+                "name_ar": "شلاتين",
+                "name_en": "Shalateen"
+            },
+            {
+                "name_ar": "مرسى علم",
+                "name_en": "Marsa Alam"
+            }
         ]
     },
     {
