@@ -1781,6 +1781,44 @@
         "geo": [
             26.209,
             32.768
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو تشت",
+                "name_en": "Abu Tisht"
+            },
+            {
+                "name_ar": "الوقف",
+                "name_en": "Wakf"
+            },
+            {
+                "name_ar": "شنا",
+                "name_en": "Shna"
+            },
+            {
+                "name_ar": "فرشوط",
+                "name_en": "Farshout"
+            },
+            {
+                "name_ar": "قفط",
+                "name_en": "Qift"
+            },
+            {
+                "name_ar": "قوص",
+                "name_en": "Quos"
+            },
+            {
+                "name_ar": "مدينة قنا",
+                "name_en": "Qena City"
+            },
+            {
+                "name_ar": "نجع حمادي",
+                "name_en": "Nag Hammadi"
+            },
+            {
+                "name_ar": "نقادة",
+                "name_en": "Nakada"
+            }
         ]
     },
     {
