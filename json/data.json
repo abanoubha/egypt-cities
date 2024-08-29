@@ -1471,6 +1471,32 @@
         "geo": [
             24.545556,
             27.173333
+        ],
+        "cities": [
+            {
+                "name_ar": "الخارجة",
+                "name_en": "Kharga"
+            },
+            {
+                "name_ar": "الداخلة",
+                "name_en": "Dakhla"
+            },
+            {
+                "name_ar": "الفرافرة",
+                "name_en": "Farafra"
+            },
+            {
+                "name_ar": "باريس",
+                "name_en": "Paris"
+            },
+            {
+                "name_ar": "بلاط",
+                "name_en": "Balat"
+            },
+            {
+                "name_ar": "مدينة موط",
+                "name_en": "Mut"
+            }
         ]
     },
     {
