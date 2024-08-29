@@ -5,6 +5,56 @@
         "geo": [
             24.088889,
             32.899722
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو الريش",
+                "name_en": "Abou Al Reish"
+            },
+            {
+                "name_ar": "أبو سمبل",
+                "name_en": "Abu Simbel"
+            },
+            {
+                "name_ar": "إدفو",
+                "name_en": "Edfu"
+            },
+            {
+                "name_ar": "البصيلية",
+                "name_en": "Basiliah"
+            },
+            {
+                "name_ar": "الرديسية",
+                "name_en": "El Radisia"
+            },
+            {
+                "name_ar": "السباعية",
+                "name_en": "As Sibaiyyah"
+            },
+            {
+                "name_ar": "دراو",
+                "name_en": "Daraw"
+            },
+            {
+                "name_ar": "صحارى",
+                "name_en": "Sahara"
+            },
+            {
+                "name_ar": "كلابشة",
+                "name_en": "Kalabsha"
+            },
+            {
+                "name_ar": "كوم امبو",
+                "name_en": "Kom Umbu"
+            },
+            {
+                "name_ar": "مدينة أسوان",
+                "name_en": "Aswan City"
+            },
+            {
+                "name_ar": "نصر النوبة",
+                "name_en": "Nasr an Nobah"
+            }
         ]
     },
     {
