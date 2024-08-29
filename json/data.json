@@ -1689,6 +1689,56 @@
         "geo": [
             26.56,
             31.7
+        ],
+        "cities": [
+            {
+                "name_ar": "أخميم",
+                "name_en": "Akhmim"
+            },
+            {
+                "name_ar": "البلينا",
+                "name_en": "Balyana"
+            },
+            {
+                "name_ar": "العسيرات",
+                "name_en": "Al Osayrat"
+            },
+            {
+                "name_ar": "المراغة",
+                "name_en": "Maragha"
+            },
+            {
+                "name_ar": "المنشاة",
+                "name_en": "Monshah"
+            },
+            {
+                "name_ar": "جرجا",
+                "name_en": "Girga"
+            },
+            {
+                "name_ar": "جهينة",
+                "name_en": "Juhaynah"
+            },
+            {
+                "name_ar": "دارالسلام",
+                "name_en": "Dar Es-Salam"
+            },
+            {
+                "name_ar": "ساقلتة",
+                "name_en": "Saqoltah"
+            },
+            {
+                "name_ar": "طما",
+                "name_en": "Tema"
+            },
+            {
+                "name_ar": "طهطا",
+                "name_en": "Tahta"
+            },
+            {
+                "name_ar": "مدينة سوهاج",
+                "name_en": "Sohag City"
+            }
         ]
     },
     {
