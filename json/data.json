@@ -1585,6 +1585,48 @@
         "geo": [
             29.05,
             33.83
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو رديس",
+                "name_en": "Abu Rudeis"
+            },
+            {
+                "name_ar": "أبو زنيمة",
+                "name_en": "Abu Zenimah"
+            },
+            {
+                "name_ar": "دهب",
+                "name_en": "Dahab"
+            },
+            {
+                "name_ar": "رأس سدر",
+                "name_en": "Ras Sidr"
+            },
+            {
+                "name_ar": "راس سدر",
+                "name_en": "Ras Sedr"
+            },
+            {
+                "name_ar": "سانت كاترين",
+                "name_en": "St Catherine"
+            },
+            {
+                "name_ar": "شرم الشيخ",
+                "name_en": "Sharm Ash-Sheikh"
+            },
+            {
+                "name_ar": "طابا",
+                "name_en": "Taba"
+            },
+            {
+                "name_ar": "طور سيناء",
+                "name_en": "Tor Sinai"
+            },
+            {
+                "name_ar": "نويبع",
+                "name_en": "Nuweiba"
+            }
         ]
     },
     {
