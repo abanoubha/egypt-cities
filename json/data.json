@@ -741,6 +741,80 @@
         "geo": [
             31.05,
             31.383333
+        ],
+        "cities": [
+            {
+                "name_ar": "أجا",
+                "name_en": "Aga"
+            },
+            {
+                "name_ar": "أخطاب",
+                "name_en": "Akhtab"
+            },
+            {
+                "name_ar": "الجمالية",
+                "name_en": "Gamaleya"
+            },
+            {
+                "name_ar": "السنبلاوين",
+                "name_en": "Sinbillawain"
+            },
+            {
+                "name_ar": "المطرية",
+                "name_en": "Matareya"
+            },
+            {
+                "name_ar": "المنزلة",
+                "name_en": "Manzala"
+            },
+            {
+                "name_ar": "المنصورة",
+                "name_en": "Mansura"
+            },
+            {
+                "name_ar": "بلقاس",
+                "name_en": "Belqas"
+            },
+            {
+                "name_ar": "بني عبيد",
+                "name_en": "Bani Ubayd"
+            },
+            {
+                "name_ar": "تمى الامديد",
+                "name_en": "Tama Al Amdeed"
+            },
+            {
+                "name_ar": "جمصه",
+                "name_en": "Gamasa"
+            },
+            {
+                "name_ar": "دكرنس",
+                "name_en": "Dikirnis"
+            },
+            {
+                "name_ar": "شربين",
+                "name_en": "Shirbin"
+            },
+            {
+                "name_ar": "طلخا",
+                "name_en": "Talkha"
+            },
+            {
+                "name_ar": "منية النصر",
+                "name_en": "Minat Al Nasr"
+            },
+            {
+                "name_ar": "ميت سلسيل",
+                "name_en": "Meet Slseel"
+            },
+            {
+                "name_ar": "ميت غمر",
+                "name_en": "Meet Ghamr"
+            },
+            {
+                "name_ar": "نبروه",
+                "name_en": "Nabaruh"
+            }
         ]
     },
     {
