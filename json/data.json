@@ -977,6 +977,36 @@
         "geo": [
             29.363333,
             30.745833
+        ],
+        "cities": [
+            {
+                "name_ar": "أطسا",
+                "name_en": "Atssa"
+            },
+            {
+                "name_ar": "إبشواي",
+                "name_en": "Ibshway"
+            },
+            {
+                "name_ar": "الفيوم الجديدة",
+                "name_en": "New Fayoum"
+            },
+            {
+                "name_ar": "سنورس",
+                "name_en": "Sinnuras"
+            },
+            {
+                "name_ar": "طامية",
+                "name_en": "Tamiya"
+            },
+            {
+                "name_ar": "مدينة الفيوم",
+                "name_en": "Fayoum City"
+            },
+            {
+                "name_ar": "يوسف الصديق",
+                "name_en": "Yusuf Al Sadiq"
+            }
         ]
     },
     {
