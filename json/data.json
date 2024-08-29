@@ -159,6 +159,232 @@
         "geo": [
             31.1975,
             29.8925
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو قير",
+                "name_en": "Abu Qir"
+            },
+            {
+                "name_ar": "الأزاريطة",
+                "name_en": "Azarita"
+            },
+            {
+                "name_ar": "الإبراهيمية",
+                "name_en": "Al Ebrahimiyyah"
+            },
+            {
+                "name_ar": "الإسكندرية",
+                "name_en": "Alexandria"
+            },
+            {
+                "name_ar": "الجمرك",
+                "name_en": "Gomrok"
+            },
+            {
+                "name_ar": "الحضرة",
+                "name_en": "Al Hadrah"
+            },
+            {
+                "name_ar": "الدخيلة",
+                "name_en": "Dekheila"
+            },
+            {
+                "name_ar": "السيوف",
+                "name_en": "Seyouf"
+            },
+            {
+                "name_ar": "الصالحية",
+                "name_en": "Salehia"
+            },
+            {
+                "name_ar": "الظاهرية",
+                "name_en": "Dhahria"
+            },
+            {
+                "name_ar": "العامرية",
+                "name_en": "Amreya"
+            },
+            {
+                "name_ar": "العصافرة",
+                "name_en": "Asafra"
+            },
+            {
+                "name_ar": "العطارين",
+                "name_en": "Attarin"
+            },
+            {
+                "name_ar": "العوايد",
+                "name_en": "Awayed"
+            },
+            {
+                "name_ar": "القباري",
+                "name_en": "Kabbary"
+            },
+            {
+                "name_ar": "اللبان",
+                "name_en": "Labban"
+            },
+            {
+                "name_ar": "المعمورة",
+                "name_en": "Maamoura"
+            },
+            {
+                "name_ar": "المكس",
+                "name_en": "El Max"
+            },
+            {
+                "name_ar": "المنتزه",
+                "name_en": "Montazah"
+            },
+            {
+                "name_ar": "المندرة",
+                "name_en": "Mandara"
+            },
+            {
+                "name_ar": "المنشية",
+                "name_en": "Manshiyya"
+            },
+            {
+                "name_ar": "النخيل",
+                "name_en": "Nakheel"
+            },
+            {
+                "name_ar": "النزهة",
+                "name_en": "Nozha"
+            },
+            {
+                "name_ar": "الورديان",
+                "name_en": "Wardian"
+            },
+            {
+                "name_ar": "باكوس",
+                "name_en": "Bacchus"
+            },
+            {
+                "name_ar": "بحرى والأنفوشى",
+                "name_en": "Bahray Anfoshy"
+            },
+            {
+                "name_ar": "برج العرب",
+                "name_en": "Borg Al Arab"
+            },
+            {
+                "name_ar": "بولكلي",
+                "name_en": "Bolkly"
+            },
+            {
+                "name_ar": "جليم",
+                "name_en": "Glim"
+            },
+            {
+                "name_ar": "جناكليس",
+                "name_en": "Gianaclis"
+            },
+            {
+                "name_ar": "رأس التين",
+                "name_en": "Ras El Teen"
+            },
+            {
+                "name_ar": "رشدي",
+                "name_en": "Roushdy"
+            },
+            {
+                "name_ar": "زيزينيا",
+                "name_en": "Zezenia"
+            },
+            {
+                "name_ar": "سابا باشا",
+                "name_en": "Saba Pasha"
+            },
+            {
+                "name_ar": "سان ستيفانو",
+                "name_en": "San Stefano"
+            },
+            {
+                "name_ar": "سبورتنج",
+                "name_en": "Sporting"
+            },
+            {
+                "name_ar": "ستانلي",
+                "name_en": "Stanley"
+            },
+            {
+                "name_ar": "سموحة",
+                "name_en": "Smoha"
+            },
+            {
+                "name_ar": "سيدي بشر",
+                "name_en": "Sidi Beshr"
+            },
+            {
+                "name_ar": "سيدي جابر",
+                "name_en": "Sidi Gaber"
+            },
+            {
+                "name_ar": "شاطبي",
+                "name_en": "Shatby"
+            },
+            {
+                "name_ar": "شدس",
+                "name_en": "Schutz"
+            },
+            {
+                "name_ar": "طوسون",
+                "name_en": "Tosson"
+            },
+            {
+                "name_ar": "عجمي",
+                "name_en": "Agami"
+            },
+            {
+                "name_ar": "فلمنج",
+                "name_en": "Fleming"
+            },
+            {
+                "name_ar": "فيكتوريا",
+                "name_en": "Victoria"
+            },
+            {
+                "name_ar": "كامب شيزار",
+                "name_en": "Camp Caesar"
+            },
+            {
+                "name_ar": "كرموز",
+                "name_en": "Karmous"
+            },
+            {
+                "name_ar": "كفر عبدو",
+                "name_en": "Kafr Abdo"
+            },
+            {
+                "name_ar": "كليوباترا",
+                "name_en": "Cleopatra"
+            },
+            {
+                "name_ar": "كوم الدكة",
+                "name_en": "Koum Al Dikka"
+            },
+            {
+                "name_ar": "لوران",
+                "name_en": "Laurent"
+            },
+            {
+                "name_ar": "محرّم بيك",
+                "name_en": "Moharam Bik"
+            },
+            {
+                "name_ar": "محطة الرمل",
+                "name_en": "Raml Station"
+            },
+            {
+                "name_ar": "ميامي",
+                "name_en": "Miami"
+            },
+            {
+                "name_ar": "مينا البصل",
+                "name_en": "Mina Al Basal"
+            }
         ]
     },
     {
