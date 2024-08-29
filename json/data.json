@@ -547,6 +547,192 @@
         "geo": [
             29.26,
             29.67
+        ],
+        "cities": [
+            {
+                "name_ar": "6 أكتوبر",
+                "name_en": "6th of October"
+            },
+            {
+                "name_ar": "أبو رواش",
+                "name_en": "Abu Rawash"
+            },
+            {
+                "name_ar": "أرض اللواء",
+                "name_en": "Ard El Lewa"
+            },
+            {
+                "name_ar": "أوسيم",
+                "name_en": "Oseem"
+            },
+            {
+                "name_ar": "إمبابة",
+                "name_en": "Imbaba"
+            },
+            {
+                "name_ar": "البدرشين",
+                "name_en": "Badrasheen"
+            },
+            {
+                "name_ar": "البراجيل",
+                "name_en": "Baragil"
+            },
+            {
+                "name_ar": "الحرانية",
+                "name_en": "Haraneya"
+            },
+            {
+                "name_ar": "الحوامدية",
+                "name_en": "Hawamdeya"
+            },
+            {
+                "name_ar": "الدقى",
+                "name_en": "Dokki"
+            },
+            {
+                "name_ar": "الرماية",
+                "name_en": "Remaia"
+            },
+            {
+                "name_ar": "الشيخ زايد",
+                "name_en": "Sheikh Zayed"
+            },
+            {
+                "name_ar": "الصحفيين",
+                "name_en": "Sahafieen"
+            },
+            {
+                "name_ar": "الصف",
+                "name_en": "Saf"
+            },
+            {
+                "name_ar": "العجوزة",
+                "name_en": "Agouza"
+            },
+            {
+                "name_ar": "العزيزية",
+                "name_en": "Azizia"
+            },
+            {
+                "name_ar": "العمرانية",
+                "name_en": "Omrania"
+            },
+            {
+                "name_ar": "العياط",
+                "name_en": "El Ayyat"
+            },
+            {
+                "name_ar": "القرية الفرعونية",
+                "name_en": "Pharaonic Village"
+            },
+            {
+                "name_ar": "الكيت كات",
+                "name_en": "Kit Kat"
+            },
+            {
+                "name_ar": "المنصورية",
+                "name_en": "Mansuriyya"
+            },
+            {
+                "name_ar": "المنيب",
+                "name_en": "Moneeb"
+            },
+            {
+                "name_ar": "المهندسين",
+                "name_en": "Mohandessin"
+            },
+            {
+                "name_ar": "الهرم",
+                "name_en": "Haram"
+            },
+            {
+                "name_ar": "الوراق",
+                "name_en": "Warraq"
+            },
+            {
+                "name_ar": "بشتيل",
+                "name_en": "Bashtil"
+            },
+            {
+                "name_ar": "بني سلامة",
+                "name_en": "Bani Salamah"
+            },
+            {
+                "name_ar": "بولاق الدكرور",
+                "name_en": "Boulaq Dakrour"
+            },
+            {
+                "name_ar": "ترسا",
+                "name_en": "Tersa"
+            },
+            {
+                "name_ar": "جزيرة الدهب وكولدير",
+                "name_en": "Dahab Island and Coldair"
+            },
+            {
+                "name_ar": "حدائق الاهرام",
+                "name_en": "Hadayek Al Ahram"
+            },
+            {
+                "name_ar": "حى الجيزة",
+                "name_en": "Giza District"
+            },
+            {
+                "name_ar": "دهشور",
+                "name_en": "Dahshur"
+            },
+            {
+                "name_ar": "ساقية مكى",
+                "name_en": "Sakyet Mekky"
+            },
+            {
+                "name_ar": "سقارة",
+                "name_en": "Saqqara"
+            },
+            {
+                "name_ar": "سوق الأحد",
+                "name_en": "Souk Al Ahad"
+            },
+            {
+                "name_ar": "صفط",
+                "name_en": "Saft"
+            },
+            {
+                "name_ar": "غرب سوميد",
+                "name_en": "West Somid"
+            },
+            {
+                "name_ar": "فيصل",
+                "name_en": "Faisal"
+            },
+            {
+                "name_ar": "كرداسة",
+                "name_en": "Kerdasa"
+            },
+            {
+                "name_ar": "كفر طهرمس",
+                "name_en": "Kafr Tohormos"
+            },
+            {
+                "name_ar": "مركز الجيزة",
+                "name_en": "Markaz Al Giza"
+            },
+            {
+                "name_ar": "مريوطية",
+                "name_en": "Maryotaya"
+            },
+            {
+                "name_ar": "ميت عقبة",
+                "name_en": "Meet Oqba"
+            },
+            {
+                "name_ar": "ناهيا",
+                "name_en": "Nahia"
+            },
+            {
+                "name_ar": "وردان",
+                "name_en": "Wardan"
+            }
         ]
     },
     {
