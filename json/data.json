@@ -63,6 +63,56 @@
         "geo": [
             27.252,
             31.09
+        ],
+        "cities": [
+            {
+                "name_ar": "أبنوب",
+                "name_en": "Abnub"
+            },
+            {
+                "name_ar": "أبو تيج",
+                "name_en": "Abu Teeg"
+            },
+            {
+                "name_ar": "أسيوط الجديدة",
+                "name_en": "New Assiut"
+            },
+            {
+                "name_ar": "البدارى",
+                "name_en": "Badari"
+            },
+            {
+                "name_ar": "الغنايم",
+                "name_en": "Ghanayem"
+            },
+            {
+                "name_ar": "الفتح",
+                "name_en": "Fateh"
+            },
+            {
+                "name_ar": "القوصيه",
+                "name_en": "Qusiya"
+            },
+            {
+                "name_ar": "ديروط",
+                "name_en": "Dairut"
+            },
+            {
+                "name_ar": "ساحل سليم",
+                "name_en": "Sahel Selim"
+            },
+            {
+                "name_ar": "صدفا",
+                "name_en": "Sedfa"
+            },
+            {
+                "name_ar": "مدينة أسيوط",
+                "name_en": "Asyut City"
+            },
+            {
+                "name_ar": "منفلوط",
+                "name_en": "Manfalut"
+            }
         ]
     },
     {
