@@ -473,6 +473,72 @@
         "geo": [
             30.61,
             30.43
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو المطامير",
+                "name_en": "Abu Al Matamer"
+            },
+            {
+                "name_ar": "أبو حمص",
+                "name_en": "Abou Homs"
+            },
+            {
+                "name_ar": "إدكو",
+                "name_en": "Edko"
+            },
+            {
+                "name_ar": "الدلنجات",
+                "name_en": "Delengat"
+            },
+            {
+                "name_ar": "الرحمانية",
+                "name_en": "Rahmaniya"
+            },
+            {
+                "name_ar": "المحمودية",
+                "name_en": "Mahmoudiyah"
+            },
+            {
+                "name_ar": "النوبارية الجديدة",
+                "name_en": "Nubariyah"
+            },
+            {
+                "name_ar": "ايتاي البارود",
+                "name_en": "Etay Al Barud"
+            },
+            {
+                "name_ar": "بدر",
+                "name_en": "Badr"
+            },
+            {
+                "name_ar": "حوش عيسى",
+                "name_en": "Hosh Essa"
+            },
+            {
+                "name_ar": "دمنهور",
+                "name_en": "Damanhour"
+            },
+            {
+                "name_ar": "رشيد",
+                "name_en": "Rashid"
+            },
+            {
+                "name_ar": "شبراخيت",
+                "name_en": "Shubrakhit"
+            },
+            {
+                "name_ar": "كفر الدوار",
+                "name_en": "Kafr Al Dawwar"
+            },
+            {
+                "name_ar": "كوم حمادة",
+                "name_en": "Kom Hamadah"
+            },
+            {
+                "name_ar": "وادي النطرون",
+                "name_en": "Wadi Al Natrun"
+            }
         ]
     },
     {
