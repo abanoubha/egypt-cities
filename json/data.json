@@ -1367,6 +1367,52 @@
         "geo": [
             30.52,
             30.99
+        ],
+        "cities": [
+            {
+                "name_ar": "أشمون",
+                "name_en": "Ashmon"
+            },
+            {
+                "name_ar": "الباجور",
+                "name_en": "Bagour"
+            },
+            {
+                "name_ar": "السادات",
+                "name_en": "Sadat"
+            },
+            {
+                "name_ar": "الشهداء",
+                "name_en": "Shohadaa"
+            },
+            {
+                "name_ar": "بركة السبع",
+                "name_en": "Berket Al Sabaa"
+            },
+            {
+                "name_ar": "تلا",
+                "name_en": "Tala"
+            },
+            {
+                "name_ar": "سرس الليان",
+                "name_en": "Sers Al Lyan"
+            },
+            {
+                "name_ar": "شبين الكوم",
+                "name_en": "Shebin Al Koum"
+            },
+            {
+                "name_ar": "قويسنا",
+                "name_en": "Quesna"
+            },
+            {
+                "name_ar": "منوف",
+                "name_en": "Menouf"
+            },
+            {
+                "name_ar": "ميت العز",
+                "name_en": "Meet El Ezz"
+            }
         ]
     },
     {
