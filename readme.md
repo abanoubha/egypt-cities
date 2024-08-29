@@ -21,7 +21,7 @@ This is a list of some projects using this data:
 
 ## Other similar lists
 
-- [Saudi Arabia's]()
+- [Saudi Arabia's](https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts)
 
 ## Contributing
 
