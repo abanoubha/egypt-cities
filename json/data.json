@@ -1421,6 +1421,48 @@
         "geo": [
             28.11,
             30.11
+        ],
+        "cities": [
+            {
+                "name_ar": "أبو قرقاص",
+                "name_en": "Abu Qurqas"
+            },
+            {
+                "name_ar": "العدوة",
+                "name_en": "Adwa"
+            },
+            {
+                "name_ar": "المنيا الجديدة",
+                "name_en": "New Minya"
+            },
+            {
+                "name_ar": "بني مزار",
+                "name_en": "Beni Mazar"
+            },
+            {
+                "name_ar": "دير مواس",
+                "name_en": "Deir Mawas"
+            },
+            {
+                "name_ar": "سمالوط",
+                "name_en": "Samalut"
+            },
+            {
+                "name_ar": "مدينة المنيا",
+                "name_en": "Minya City"
+            },
+            {
+                "name_ar": "مطاي",
+                "name_en": "Matay"
+            },
+            {
+                "name_ar": "مغاغة",
+                "name_en": "Maghagha"
+            },
+            {
+                "name_ar": "ملوي",
+                "name_en": "Malawi"
+            }
         ]
     },
     {
