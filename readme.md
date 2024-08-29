@@ -18,6 +18,9 @@ This is a list of some projects using this data:
 - [ ] collect each governorate's cities saved as CSV
 - [x] make it open source for everyone
 - [ ] make a repo on GitLab and Codeberg too
+- [ ] add area (km) to each governorate
+- [ ] add population to each governorate
+- [ ] add area code (e.g: Sohag is (+20) 93 )
 
 ## Other similar lists
 
