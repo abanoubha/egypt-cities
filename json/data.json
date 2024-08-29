@@ -1881,6 +1881,48 @@
         "geo": [
             29.66,
             27.51
+        ],
+        "cities": [
+            {
+                "name_ar": "الحمام",
+                "name_en": "Hammam"
+            },
+            {
+                "name_ar": "الساحل الشمالي",
+                "name_en": "North Coast"
+            },
+            {
+                "name_ar": "السلوم",
+                "name_en": "Salloum"
+            },
+            {
+                "name_ar": "الضبعة",
+                "name_en": "Dabaa"
+            },
+            {
+                "name_ar": "العلمين",
+                "name_en": "Alamein"
+            },
+            {
+                "name_ar": "النجيلة",
+                "name_en": "Nagela"
+            },
+            {
+                "name_ar": "براني",
+                "name_en": "Barany"
+            },
+            {
+                "name_ar": "سيوة",
+                "name_en": "Siwa"
+            },
+            {
+                "name_ar": "مارينا العلمين",
+                "name_en": "Marina El Alamein"
+            },
+            {
+                "name_ar": "مرسى مطروح",
+                "name_en": "Marsa Matrouh"
+            }
         ]
     }
 ]
