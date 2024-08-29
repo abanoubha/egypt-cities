@@ -1305,6 +1305,60 @@
         "geo": [
             30.41,
             31.21
+        ],
+        "cities": [
+            {
+                "name_ar": "الخانكة",
+                "name_en": "Khanka"
+            },
+            {
+                "name_ar": "الخصوص",
+                "name_en": "Khosous"
+            },
+            {
+                "name_ar": "العبور",
+                "name_en": "El Ubour"
+            },
+            {
+                "name_ar": "القناطر الخيرية",
+                "name_en": "Qanater Al Khairia"
+            },
+            {
+                "name_ar": "بنها",
+                "name_en": "Banha"
+            },
+            {
+                "name_ar": "بهتيم",
+                "name_en": "Bahtim"
+            },
+            {
+                "name_ar": "زاويه النجار",
+                "name_en": "Zawya En-Naggar"
+            },
+            {
+                "name_ar": "شبرا الخيمة",
+                "name_en": "Shubra Al Khaimah"
+            },
+            {
+                "name_ar": "شبين القناطر",
+                "name_en": "Shebin Al Qanater"
+            },
+            {
+                "name_ar": "طوخ",
+                "name_en": "Tookh"
+            },
+            {
+                "name_ar": "قليوب",
+                "name_en": "Qalyub"
+            },
+            {
+                "name_ar": "قها",
+                "name_en": "Qaha"
+            },
+            {
+                "name_ar": "كفر شكر",
+                "name_en": "Kafr Shukr"
+            }
         ]
     },
     {
