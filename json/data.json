@@ -1547,6 +1547,36 @@
         "geo": [
             31.266667,
             32.3
+        ],
+        "cities": [
+            {
+                "name_ar": "حي الجنوب",
+                "name_en": "Ganoub District"
+            },
+            {
+                "name_ar": "حي الزهور",
+                "name_en": "Zohour District"
+            },
+            {
+                "name_ar": "حي الشرق",
+                "name_en": "Sharq District"
+            },
+            {
+                "name_ar": "حي الضواحي",
+                "name_en": "Dawahy District"
+            },
+            {
+                "name_ar": "حي العرب",
+                "name_en": "Arab District"
+            },
+            {
+                "name_ar": "حي المناخ",
+                "name_en": "Manakh District"
+            },
+            {
+                "name_ar": "مدينة بورفؤاد",
+                "name_en": "Port Fouad"
+            }
         ]
     },
     {
