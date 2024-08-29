@@ -22,6 +22,11 @@ This is a list of some projects using this data:
 - [ ] add population to each governorate
 - [ ] add area code (e.g: Sohag is (+20) 93 )
 
+## References, Resources and Sources
+
+- location longitude and latitude are from [geohack.toolforge.org](https://geohack.toolforge.org/geohack.php?pagename=Luxor&params=25_41_48_N_32_38_40_E_region:EG-LX_type:city)
+- Names, area, population, and area code are from [Wikipedia](https://en.wikipedia.org/wiki/Luxor)
+
 ## Other similar lists
 
 - [Saudi Arabia's](https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts)
