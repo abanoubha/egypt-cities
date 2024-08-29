@@ -823,6 +823,32 @@
         "geo": [
             29.966667,
             32.55
+        ],
+        "cities": [
+            {
+                "name_ar": "العين السخنة",
+                "name_en": "Ain Sukhna"
+            },
+            {
+                "name_ar": "حى الجناين",
+                "name_en": "Ganayen"
+            },
+            {
+                "name_ar": "حي الأربعين",
+                "name_en": "Arbaeen"
+            },
+            {
+                "name_ar": "حي السويس",
+                "name_en": "Suez District"
+            },
+            {
+                "name_ar": "حي عتاقة",
+                "name_en": "Attaka"
+            },
+            {
+                "name_ar": "فيصل",
+                "name_en": "Faisal"
+            }
         ]
     },
     {
