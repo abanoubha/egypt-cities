@@ -121,6 +121,36 @@
         "geo": [
             25.696667,
             32.644444
+        ],
+        "cities": [
+            {
+                "name_ar": "أرمنت",
+                "name_en": "Armant"
+            },
+            {
+                "name_ar": "إسنا",
+                "name_en": "Isna"
+            },
+            {
+                "name_ar": "البياضية",
+                "name_en": "Bayadeya"
+            },
+            {
+                "name_ar": "الزينية",
+                "name_en": "Zinnia"
+            },
+            {
+                "name_ar": "الطود",
+                "name_en": "Tod"
+            },
+            {
+                "name_ar": "القرنه",
+                "name_en": "Qurna"
+            },
+            {
+                "name_ar": "مدينة الأقصر",
+                "name_en": "Luxor City"
+            }
         ]
     },
     {
