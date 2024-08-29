@@ -1,110 +1,218 @@
 [
     {
         "name_en": "Aswan",
-        "name_ar": "أسوان"
+        "name_ar": "أسوان",
+        "geo": [
+            24.088889,
+            32.899722
+        ]
     },
     {
         "name_en": "Asyut",
-        "name_ar": "أسيوط"
+        "name_ar": "أسيوط",
+        "geo": [
+            27.252,
+            31.09
+        ]
     },
     {
         "name_en": "Luxor",
-        "name_ar": "الأقصر"
+        "name_ar": "الأقصر",
+        "geo": [
+            25.696667,
+            32.644444
+        ]
     },
     {
         "name_en": "Alexandria",
-        "name_ar": "الإسكندرية"
+        "name_ar": "الإسكندرية",
+        "geo": [
+            31.1975,
+            29.8925
+        ]
     },
     {
         "name_en": "Ismailia",
-        "name_ar": "الإسماعيلية"
+        "name_ar": "الإسماعيلية",
+        "geo": [
+            30.6,
+            32.283333
+        ]
     },
     {
         "name_en": "Red Sea",
-        "name_ar": "البحر الأحمر"
+        "name_ar": "البحر الأحمر",
+        "geo": [
+            25.533611,
+            33.438333
+        ]
     },
     {
         "name_en": "Beheira",
-        "name_ar": "البحيرة"
+        "name_ar": "البحيرة",
+        "geo": [
+            30.61,
+            30.43
+        ]
     },
     {
         "name_en": "Giza",
-        "name_ar": "الجيزة"
+        "name_ar": "الجيزة",
+        "geo": [
+            29.26,
+            29.67
+        ]
     },
     {
         "name_en": "Dakahlia",
-        "name_ar": "الدقهلية"
+        "name_ar": "الدقهلية",
+        "geo": [
+            31.05,
+            31.383333
+        ]
     },
     {
         "name_en": "Suez",
-        "name_ar": "السويس"
+        "name_ar": "السويس",
+        "geo": [
+            29.966667,
+            32.55
+        ]
     },
     {
         "name_en": "Sharqia",
-        "name_ar": "الشرقية"
+        "name_ar": "الشرقية",
+        "geo": [
+            30.7,
+            31.63
+        ]
     },
     {
         "name_en": "Gharbia",
-        "name_ar": "الغربية"
+        "name_ar": "الغربية",
+        "geo": [
+            30.867,
+            31.028
+        ]
     },
     {
         "name_en": "Fayoum",
-        "name_ar": "الفيوم"
+        "name_ar": "الفيوم",
+        "geo": [
+            29.363333,
+            30.745833
+        ]
     },
     {
         "name_en": "Cairo",
-        "name_ar": "القاهرة"
+        "name_ar": "القاهرة",
+        "geo": [
+            30.033333,
+            31.216667
+        ]
     },
     {
         "name_en": "Qalyubia",
-        "name_ar": "القليوبية"
+        "name_ar": "القليوبية",
+        "geo": [
+            30.41,
+            31.21
+        ]
     },
     {
         "name_en": "Menoufia",
-        "name_ar": "المنوفية"
+        "name_ar": "المنوفية",
+        "geo": [
+            30.52,
+            30.99
+        ]
     },
     {
         "name_en": "Minya",
-        "name_ar": "المنيا"
+        "name_ar": "المنيا",
+        "geo": [
+            28.11,
+            30.11
+        ]
     },
     {
         "name_en": "New Valley",
-        "name_ar": "الوادي الجديد"
+        "name_ar": "الوادي الجديد",
+        "geo": [
+            24.545556,
+            27.173333
+        ]
     },
     {
         "name_en": "Beni Suef",
-        "name_ar": "بني سويف"
+        "name_ar": "بني سويف",
+        "geo": [
+            29.076,
+            31.097
+        ]
     },
     {
         "name_en": "Port Said",
-        "name_ar": "بورسعيد"
+        "name_ar": "بورسعيد",
+        "geo": [
+            31.266667,
+            32.3
+        ]
     },
     {
         "name_en": "South Sinai",
-        "name_ar": "جنوب سيناء"
+        "name_ar": "جنوب سيناء",
+        "geo": [
+            29.05,
+            33.83
+        ]
     },
     {
         "name_en": "Damietta",
-        "name_ar": "دمياط"
+        "name_ar": "دمياط",
+        "geo": [
+            31.4,
+            31.72
+        ]
     },
     {
         "name_en": "Sohag",
-        "name_ar": "سوهاج"
+        "name_ar": "سوهاج",
+        "geo": [
+            26.56,
+            31.7
+        ]
     },
     {
         "name_en": "North Sinai",
-        "name_ar": "شمال سيناء"
+        "name_ar": "شمال سيناء",
+        "geo": [
+            30.5,
+            33.6
+        ]
     },
     {
         "name_en": "Qena",
-        "name_ar": "قنا"
+        "name_ar": "قنا",
+        "geo": [
+            26.209,
+            32.768
+        ]
     },
     {
         "name_en": "Kafr El Sheikh",
-        "name_ar": "كفر الشيخ"
+        "name_ar": "كفر الشيخ",
+        "geo": [
+            31.3,
+            30.93
+        ]
     },
     {
         "name_en": "Matrouh",
-        "name_ar": "مطروح"
+        "name_ar": "مطروح",
+        "geo": [
+            29.66,
+            27.51
+        ]
     }
 ]
