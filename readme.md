@@ -10,13 +10,13 @@ This is a list of some projects using this data:
 
 ## Roadmap & Tasks
 
-- [ ] collect all governorates saved as JSON
+- [x] collect all governorates saved as JSON
 - [ ] collect all governorates saved as SQL
 - [ ] collect all governorates saved as CSV
-- [ ] collect each governorate's cities saved as JSON
+- [x] collect each governorate's cities saved as JSON
 - [ ] collect each governorate's cities saved as SQL
 - [ ] collect each governorate's cities saved as CSV
-- [ ] make it open source for everyone
+- [x] make it open source for everyone
 - [ ] make a repo on GitLab and Codeberg too
 
 ## Other similar lists
@@ -30,4 +30,3 @@ All contributions are welcome!
 ## Issues
 
 If you found an issue with the data please open an issue. If you are looking for help in using the data in your own project, please use the appropriate forums, such as StackOverflow.
-
