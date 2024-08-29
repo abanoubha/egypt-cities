@@ -1827,6 +1827,52 @@
         "geo": [
             31.3,
             30.93
+        ],
+        "cities": [
+            {
+                "name_ar": "البرلس",
+                "name_en": "Brolos"
+            },
+            {
+                "name_ar": "الحامول",
+                "name_en": "Hamoul"
+            },
+            {
+                "name_ar": "الرياض",
+                "name_en": "Riyadh"
+            },
+            {
+                "name_ar": "بلطيم",
+                "name_en": "Baltim"
+            },
+            {
+                "name_ar": "بيلا",
+                "name_en": "Bella"
+            },
+            {
+                "name_ar": "دسوق",
+                "name_en": "Desouk"
+            },
+            {
+                "name_ar": "سيدى سالم",
+                "name_en": "Sidi Salem"
+            },
+            {
+                "name_ar": "فوه",
+                "name_en": "Fouh"
+            },
+            {
+                "name_ar": "قلين",
+                "name_en": "Qaleen"
+            },
+            {
+                "name_ar": "مدينة كفر الشيخ",
+                "name_en": "Kafr Ash-Sheikh City"
+            },
+            {
+                "name_ar": "مطوبس",
+                "name_en": "Motobes"
+            }
         ]
     },
     {
