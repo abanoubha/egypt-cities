@@ -1505,6 +1505,40 @@
         "geo": [
             29.076,
             31.097
+        ],
+        "cities": [
+            {
+                "name_ar": "إهناسيا",
+                "name_en": "Ehnasia"
+            },
+            {
+                "name_ar": "الفشن",
+                "name_en": "Al Feshn"
+            },
+            {
+                "name_ar": "الواسطى",
+                "name_en": "Al Wasty"
+            },
+            {
+                "name_ar": "ببا",
+                "name_en": "Beba"
+            },
+            {
+                "name_ar": "بني سويف الجديدة",
+                "name_en": "New Beni Suef"
+            },
+            {
+                "name_ar": "سمسطا",
+                "name_en": "Samasta"
+            },
+            {
+                "name_ar": "مدينة بني سويف",
+                "name_en": "Beni Suef City"
+            },
+            {
+                "name_ar": "ناصر",
+                "name_en": "Nasser"
+            }
         ]
     },
     {
