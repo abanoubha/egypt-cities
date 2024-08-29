@@ -1747,6 +1747,32 @@
         "geo": [
             30.5,
             33.6
+        ],
+        "cities": [
+            {
+                "name_ar": "الحسنة",
+                "name_en": "Hasana"
+            },
+            {
+                "name_ar": "الشيخ زويد",
+                "name_en": "Sheikh Zoweyd"
+            },
+            {
+                "name_ar": "العريش",
+                "name_en": "Arish"
+            },
+            {
+                "name_ar": "بئر العبد",
+                "name_en": "Bir Al Abd"
+            },
+            {
+                "name_ar": "رفح",
+                "name_en": "Rafah"
+            },
+            {
+                "name_ar": "نخل",
+                "name_en": "Nakhl"
+            }
         ]
     },
     {
