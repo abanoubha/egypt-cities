@@ -1635,6 +1635,52 @@
         "geo": [
             31.4,
             31.72
+        ],
+        "cities": [
+            {
+                "name_ar": "الروضة",
+                "name_en": "Rodah"
+            },
+            {
+                "name_ar": "الزرقا",
+                "name_en": "Zarqa"
+            },
+            {
+                "name_ar": "السرو",
+                "name_en": "Saro"
+            },
+            {
+                "name_ar": "دمياط الجديدة",
+                "name_en": "New Damietta"
+            },
+            {
+                "name_ar": "رأس البر",
+                "name_en": "Ras Al Bar"
+            },
+            {
+                "name_ar": "عزبة البرج",
+                "name_en": "Ezbet Al Burj"
+            },
+            {
+                "name_ar": "فارسكور",
+                "name_en": "Fareskour"
+            },
+            {
+                "name_ar": "كفر البطيخ",
+                "name_en": "Kafr Al Bateekh"
+            },
+            {
+                "name_ar": "كفر سعد",
+                "name_en": "Kafr Saad"
+            },
+            {
+                "name_ar": "مدينة دمياط",
+                "name_en": "Damietta City"
+            },
+            {
+                "name_ar": "ميت أبوغالب",
+                "name_en": "Meet Abu Ghaleb"
+            }
         ]
     },
     {
