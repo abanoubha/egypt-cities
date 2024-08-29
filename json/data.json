@@ -1015,6 +1015,288 @@
         "geo": [
             30.033333,
             31.216667
+        ],
+        "cities": [
+            {
+                "name_ar": "الأميرية",
+                "name_en": "Al Amiriyyah"
+            },
+            {
+                "name_ar": "البساتين",
+                "name_en": "Basateen"
+            },
+            {
+                "name_ar": "التبين",
+                "name_en": "Tebeen"
+            },
+            {
+                "name_ar": "التجمع الثالث",
+                "name_en": "The 3rd District"
+            },
+            {
+                "name_ar": "الجمالية",
+                "name_en": "Gamaleya"
+            },
+            {
+                "name_ar": "الحلمية",
+                "name_en": "Helmeya"
+            },
+            {
+                "name_ar": "الحلمية الجديدة",
+                "name_en": "Helmeya Al Gadeda"
+            },
+            {
+                "name_ar": "الخليفة",
+                "name_en": "Khalifa"
+            },
+            {
+                "name_ar": "الدراسة",
+                "name_en": "Darrasa"
+            },
+            {
+                "name_ar": "الدرب الأحمر",
+                "name_en": "Darb Al Ahmar"
+            },
+            {
+                "name_ar": "الروضة",
+                "name_en": "Roda"
+            },
+            {
+                "name_ar": "الزاوية الحمراء",
+                "name_en": "Zawya Al Hamra"
+            },
+            {
+                "name_ar": "الزمالك",
+                "name_en": "Zamalek"
+            },
+            {
+                "name_ar": "الزيتون",
+                "name_en": "Zaytoun"
+            },
+            {
+                "name_ar": "الساحل",
+                "name_en": "Sahel"
+            },
+            {
+                "name_ar": "السيدة زينب",
+                "name_en": "Sayeda Zeinab"
+            },
+            {
+                "name_ar": "الشرابية",
+                "name_en": "Sharabeya"
+            },
+            {
+                "name_ar": "العاشر من رمضان",
+                "name_en": "10th of Ramadan City"
+            },
+            {
+                "name_ar": "العاصمة الإدارية الجديدة",
+                "name_en": "New Capital City"
+            },
+            {
+                "name_ar": "العباسية",
+                "name_en": "Abasiya"
+            },
+            {
+                "name_ar": "العبور",
+                "name_en": "Obour City"
+            },
+            {
+                "name_ar": "العتبة",
+                "name_en": "Ataba"
+            },
+            {
+                "name_ar": "القاهرة - أخرى",
+                "name_en": "Cairo"
+            },
+            {
+                "name_ar": "القاهرة الجديدة -  التجمع الأول",
+                "name_en": "First Settlement"
+            },
+            {
+                "name_ar": "القاهرة الجديدة - أخرى",
+                "name_en": "New Cairo"
+            },
+            {
+                "name_ar": "القاهرة الجديدة - الأندلس",
+                "name_en": "New Cairo Andalous"
+            },
+            {
+                "name_ar": "القاهرة الجديدة - التجمع الخامس",
+                "name_en": "Fifth Settlement"
+            },
+            {
+                "name_ar": "القاهرة الجديدة - لوتس",
+                "name_en": "New Cairo Lotus"
+            },
+            {
+                "name_ar": "القاهرة الجديدة - مدينة الرحاب",
+                "name_en": "Rehab City"
+            },
+            {
+                "name_ar": "القطامية",
+                "name_en": "Katameya"
+            },
+            {
+                "name_ar": "الماظة",
+                "name_en": "Almazah"
+            },
+            {
+                "name_ar": "المرج",
+                "name_en": "Marg"
+            },
+            {
+                "name_ar": "المطرية",
+                "name_en": "Matareya"
+            },
+            {
+                "name_ar": "المعادي",
+                "name_en": "Maadi"
+            },
+            {
+                "name_ar": "المعصره",
+                "name_en": "Maasara"
+            },
+            {
+                "name_ar": "المقطم",
+                "name_en": "Mokattam"
+            },
+            {
+                "name_ar": "المنيرة الجديدة",
+                "name_en": "Mounira Al Gadeda"
+            },
+            {
+                "name_ar": "المنيل",
+                "name_en": "Al Manial"
+            },
+            {
+                "name_ar": "الموسكي",
+                "name_en": "Moski"
+            },
+            {
+                "name_ar": "النزهة",
+                "name_en": "Nozha"
+            },
+            {
+                "name_ar": "الوايلي",
+                "name_en": "Waili"
+            },
+            {
+                "name_ar": "باب الشعرية",
+                "name_en": "Bab Al Shereia"
+            },
+            {
+                "name_ar": "بولاق",
+                "name_en": "Boulaq"
+            },
+            {
+                "name_ar": "بيت الوطن",
+                "name_en": "Bait El Watan"
+            },
+            {
+                "name_ar": "جاردن سيتي",
+                "name_en": "Garden City"
+            },
+            {
+                "name_ar": "حدائق القبة",
+                "name_en": "Hadayek Al Kobba"
+            },
+            {
+                "name_ar": "حدائق حلوان",
+                "name_en": "Hadayek Helwan"
+            },
+            {
+                "name_ar": "حلوان",
+                "name_en": "Helwan"
+            },
+            {
+                "name_ar": "دار السلام",
+                "name_en": "Dar As-Salaam"
+            },
+            {
+                "name_ar": "رمسيس و امتداد رمسيس",
+                "name_en": "Ramses & Ramses Extension"
+            },
+            {
+                "name_ar": "روض الفرج",
+                "name_en": "Rod Al Farag"
+            },
+            {
+                "name_ar": "زهراء المعادى",
+                "name_en": "Zahraa Al Maadi"
+            },
+            {
+                "name_ar": "شبرا",
+                "name_en": "Shubra"
+            },
+            {
+                "name_ar": "شيراتون",
+                "name_en": "Sheraton"
+            },
+            {
+                "name_ar": "طرة",
+                "name_en": "Tura"
+            },
+            {
+                "name_ar": "عزبة النخل",
+                "name_en": "Izbat An-Nakhl"
+            },
+            {
+                "name_ar": "عين شمس",
+                "name_en": "Ain Shams"
+            },
+            {
+                "name_ar": "قصر النيل",
+                "name_en": "Qasr An-Nil"
+            },
+            {
+                "name_ar": "مدينة 15 مايو",
+                "name_en": "15th of May City"
+            },
+            {
+                "name_ar": "مدينة السلام",
+                "name_en": "Salam City"
+            },
+            {
+                "name_ar": "مدينة الشروق",
+                "name_en": "Shorouk City"
+            },
+            {
+                "name_ar": "مدينة المستقبل",
+                "name_en": "Future City"
+            },
+            {
+                "name_ar": "مدينة بدر",
+                "name_en": "Badr City"
+            },
+            {
+                "name_ar": "مدينة نصر",
+                "name_en": "Nasr City"
+            },
+            {
+                "name_ar": "مدينتي",
+                "name_en": "Madinaty"
+            },
+            {
+                "name_ar": "مسطرد",
+                "name_en": "Musturad"
+            },
+            {
+                "name_ar": "مصر الجديدة",
+                "name_en": "Heliopolis"
+            },
+            {
+                "name_ar": "مصر القديمة",
+                "name_en": "Masr Al Kadema"
+            },
+            {
+                "name_ar": "هليوبوليس الجديدة",
+                "name_en": "New Heliopolis"
+            },
+            {
+                "name_ar": "وسط القاهرة",
+                "name_en": "Downtown Cairo"
+            }
         ]
     },
     {
