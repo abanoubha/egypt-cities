@@ -393,6 +393,36 @@
         "geo": [
             30.6,
             32.283333
+        ],
+        "cities": [
+            {
+                "name_ar": "أبوصوير",
+                "name_en": "Abu Swear"
+            },
+            {
+                "name_ar": "التل الكبير",
+                "name_en": "Tal Al Kebeer"
+            },
+            {
+                "name_ar": "القصاصين",
+                "name_en": "Qassaseen"
+            },
+            {
+                "name_ar": "القنطرة شرق",
+                "name_en": "Kantara East"
+            },
+            {
+                "name_ar": "القنطرة غرب",
+                "name_en": "Kantara West"
+            },
+            {
+                "name_ar": "فايد",
+                "name_en": "Fayed"
+            },
+            {
+                "name_ar": "مدينة الإسماعيلية",
+                "name_en": "Ismailia City"
+            }
         ]
     },
     {
